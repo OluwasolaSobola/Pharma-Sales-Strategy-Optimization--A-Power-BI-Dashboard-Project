@@ -1,5 +1,12 @@
 <img width="847" height="470" alt="image" src="https://github.com/user-attachments/assets/cfa2991e-c388-43a9-951a-a2ff0a45edd8" />
 
+
+
+
+Disclaimer ⚠️:
+All datasets, slides, and reports showcased here do not contain any real proprietary, confidential, or sensitive information from any company, 
+institution, or individual mentioned. All data used are dummy and designed solely to demonstrate my capabilities in using Power BI to perform advanced analysis on healthcare datasets.
+
 ### Table of Content
 ---
 
