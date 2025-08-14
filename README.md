@@ -1,3 +1,5 @@
+### Pharmaceutical Sales Performance Analysis Using Power BI
+
 <img width="847" height="470" alt="image" src="https://github.com/user-attachments/assets/cfa2991e-c388-43a9-951a-a2ff0a45edd8" />
 
 
